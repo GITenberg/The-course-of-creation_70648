@@ -1,0 +1,32 @@
+_repo: The-course-of-creation_70648
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, John
+    deathdate: 1864
+    gutenberg_agent_id: '55842'
+    url: http://www.gutenberg.org/2009/agents/55842
+description: ''
+gutenberg_issued: '2023-04-27'
+identifiers:
+  gutenberg: '70648'
+  lccn: gs14000498
+language: en
+pgterms:marc904: http://books.google.com/books?id=95IJ1tVvQoQC
+pgterms:marc905: 20061006220756anderson
+pgterms:marc906: '1851'
+pgterms:marc907: US
+production_note: Bryan Ness and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aUnited States :$bWm. H. Moore & Co., $c1851.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion and science'
+- !lcsh 'Geology'
+- !lcc 'BS'
+- GITenberg
+title: The course of creation
+url: http://www.gutenberg.org/ebooks/70648
